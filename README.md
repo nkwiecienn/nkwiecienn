@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Natalia
-- 👀 I’m interested in coding
+- 👀 Mojs strona: https://nkwiecienn.github.io/
 - 🌱 I’m currently learning C
 - 💞️ Pronouns: she/her
 
