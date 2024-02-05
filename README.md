@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Natalia
-- 👀 Mojs strona: https://nkwiecienn.github.io/
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning ML in Python
 - 💞️ Pronouns: she/her
 
 <!---
