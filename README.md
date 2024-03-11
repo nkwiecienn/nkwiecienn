@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Natalia
-- 🌱 I’m currently learning ML in Python
+- 🌱 I’m currently learning ML and Data Science in Python
 - 💞️ Pronouns: she/her
 
 <!---
